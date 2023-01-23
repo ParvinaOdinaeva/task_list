@@ -1,0 +1,60 @@
+.section {
+    margin: 10px 0;
+    background: white;
+    box-shadow: 2px 2px 8px rgba(17, 16, 39, 0.075);
+}
+
+.section__header {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+@media (max-width: 767px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+
+.section__form {
+    padding: 10px;
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.buttons:hover {
+    color: hsl(180, 100%, 35%);
+}
+
+
+.buttons:disabled {
+    color: #ccc;
+}
+
+.buttons__button {
+    background-color: transparent;
+    border: none;
+    color: teal;
+    cursor: pointer;
+    transition: color 0.9s;
+    margin: 20px;
+}
+
+
+.buttons__button:hover {
+    color: hsl(180, 61%, 53%);
+}
+
+@media (max-width: 767px) {
+    .buttons__button {
+        flex-basis: 100%;
+        margin: 10px;
+    }
+}
