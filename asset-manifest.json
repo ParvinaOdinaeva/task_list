@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ParvinaOdinaeva/task_list.git/static/css/main.b7d2bed0.css",
+    "main.js": "/ParvinaOdinaeva/task_list.git/static/js/main.c3effa01.js",
+    "static/js/787.2c23d2f4.chunk.js": "/ParvinaOdinaeva/task_list.git/static/js/787.2c23d2f4.chunk.js",
+    "index.html": "/ParvinaOdinaeva/task_list.git/index.html",
+    "main.b7d2bed0.css.map": "/ParvinaOdinaeva/task_list.git/static/css/main.b7d2bed0.css.map",
+    "main.c3effa01.js.map": "/ParvinaOdinaeva/task_list.git/static/js/main.c3effa01.js.map",
+    "787.2c23d2f4.chunk.js.map": "/ParvinaOdinaeva/task_list.git/static/js/787.2c23d2f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d2bed0.css",
+    "static/js/main.c3effa01.js"
+  ]
+}
