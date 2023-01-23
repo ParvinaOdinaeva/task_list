@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ParvinaOdinaeva/task_list.git/static/css/main.b7d2bed0.css",
-    "main.js": "/ParvinaOdinaeva/task_list.git/static/js/main.c3effa01.js",
-    "static/js/787.2c23d2f4.chunk.js": "/ParvinaOdinaeva/task_list.git/static/js/787.2c23d2f4.chunk.js",
-    "index.html": "/ParvinaOdinaeva/task_list.git/index.html",
-    "main.b7d2bed0.css.map": "/ParvinaOdinaeva/task_list.git/static/css/main.b7d2bed0.css.map",
-    "main.c3effa01.js.map": "/ParvinaOdinaeva/task_list.git/static/js/main.c3effa01.js.map",
-    "787.2c23d2f4.chunk.js.map": "/ParvinaOdinaeva/task_list.git/static/js/787.2c23d2f4.chunk.js.map"
+    "main.css": "/task_list/static/css/main.b7d2bed0.css",
+    "main.js": "/task_list/static/js/main.99c18382.js",
+    "static/js/787.2c23d2f4.chunk.js": "/task_list/static/js/787.2c23d2f4.chunk.js",
+    "index.html": "/task_list/index.html",
+    "main.b7d2bed0.css.map": "/task_list/static/css/main.b7d2bed0.css.map",
+    "main.99c18382.js.map": "/task_list/static/js/main.99c18382.js.map",
+    "787.2c23d2f4.chunk.js.map": "/task_list/static/js/787.2c23d2f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d2bed0.css",
-    "static/js/main.c3effa01.js"
+    "static/js/main.99c18382.js"
   ]
 }
