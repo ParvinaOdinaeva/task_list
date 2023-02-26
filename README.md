@@ -2,7 +2,6 @@
 ## Demo
 <br><a rel="noreferrer noopener" target="_blank" href="https://parvinaodinaeva.github.io/task_list/" title="task_list">Preview of work</a>
 <br>[tasklist](https://i.postimg.cc/gc52BqjW/Przechwytywanie.png)
-<br>![tasklist](https://i.postimg.cc/sDQQTnbJ/listbackground.jpg)
 ## *Description*
 <br>Here I present my first work related to functions, objects & tables in Javascript
 <br>*Method of use as before*
